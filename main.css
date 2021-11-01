@@ -295,4 +295,12 @@ li{
   ul.footer-center{
     display: none;
   }
+  #buttons-set{
+    position: relative;
+    top: -41px;
+  }
+   .buttons{
+    position: relative;
+    top: -23px;
+   }
 }
