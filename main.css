@@ -175,6 +175,9 @@ li{
   .nav-right .grid0{
     display: none;
   }
+  .footer .footer-left li:ntn-child(2) span{
+    display: none;
+  }
 }
 
 /* Surface DUO mode */
